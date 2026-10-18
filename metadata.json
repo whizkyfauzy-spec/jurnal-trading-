@@ -1,0 +1,6 @@
+{
+  "name": "TradeLog - Forex Trading Journal",
+  "description": "Jurnal trading forex modern untuk mencatat transaksi, menganalisis performa, menghitung win rate & profit factor, dan meningkatkan disiplin trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
